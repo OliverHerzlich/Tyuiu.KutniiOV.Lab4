@@ -1,6 +1,6 @@
 ﻿namespace Tyuiu.KutniiOV.Lab4
 {
-    partial class Form1
+    partial class Calc
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Calc));
             button_7 = new Button();
             button_8 = new Button();
             button_9 = new Button();

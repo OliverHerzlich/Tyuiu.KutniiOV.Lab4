@@ -1,8 +1,8 @@
 namespace Tyuiu.KutniiOV.Lab4
 {
-    public partial class Form1 : Form
+    public partial class Calc : Form
     {
-        public Form1()
+        public Calc()
         {
             InitializeComponent();
         }
